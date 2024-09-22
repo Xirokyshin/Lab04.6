@@ -1,0 +1,4 @@
+﻿  PR4.6.cpp
+D:\Visual Studio\PROJECT\PR4.6\PR4.6.cpp(9,12): warning C4101: 'S': unreferenced local variable
+D:\Visual Studio\PROJECT\PR4.6\PR4.6.cpp(10,6): warning C4101: 'n': unreferenced local variable
+  PR4.6.vcxproj -> D:\Visual Studio\PROJECT\PR4.6\x64\Debug\PR4.6.exe
